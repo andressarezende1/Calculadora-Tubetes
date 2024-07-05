@@ -1,0 +1,65 @@
+body {
+    align-items: center;
+    margin:100px;
+    background: url(https://img.elo7.com.br/product/600x380/23F8AA7/papel-de-parede-dentista-60cm-x-2-50m-casa.jpg);
+    
+}
+
+.d1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #71C3FC;	
+}
+
+.d1 h1 {
+    color: #086697;
+    font-family: Bahnschrift Light;
+    text-align: center;
+}
+
+.d1 input {
+    width: 70%;
+}
+
+.d1 input peso {
+    font-family: Bahnschrift Light;
+}
+
+.d1 label {
+    text-align: center;
+    font-family: Bahnschrift Light;
+}
+
+.d1 select {
+    width: 70%;
+    font-family: Bahnschrift Light;
+
+}
+
+.d1 button {
+    cursor: pointer;
+    background-color: #0F14D0;
+    border: none;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#resultado {
+    background-color: #6BB9FB;
+    width: 240;
+    border-radius: 10px;
+    font-family: Bahnschrift Light ;
+}
+
+@keyframes aparecer {
+      0% { opacity: 0; } 
+      100% { opacity: 1; } 
+}
+

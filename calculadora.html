@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Dose de Anestésico Local</title>
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+<body>
+	<div class="d1">
+		<h1>Calculadora da dose para anestésicos locais em odontopediadria </h1>
+
+    	<label for="peso">Peso (kg):</label>
+    	<input type="number" id="peso" ><br><br>
+	
+		<label for="local" > Escolha o Anestésico Local:</label>
+			<select id="local">
+				<option value="Lidocaína 2%">Lidocaína 2%</option>
+				<option value="Lidocaína 3%">Lidocaína 3%</option>
+				<option value="Mepevacaína 2%">Mepevacaína 2%</option>
+				<option value="Mepevacaína 3%">Mepevacaína 3%</option>
+				<option value="Articaína">Articaína</option>
+				<option value="Prilocaína 3%">Prilocaína 3%</option>
+				<option value="Bupivacaína 0,5%">Bupivacaína 0,5%</option>
+			</select> <br><br>
+
+    	<button onclick="calcular()">Calcular</button> <br><br>
+
+    	<div id="resultado"> </div>
+
+	</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
