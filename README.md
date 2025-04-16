@@ -1,6 +1,6 @@
 <h1>Olá, pessoal! Conheçam a ✨Calculadora de Dose de Anestésico Local para Odontologia!✨ </h1>
 
-Em 2022, ouvi minha irmã, que está quase se formando em Odontologia, mencionar a importância de calcular a dosagem correta de anestésico local. Foi aí que decidi criar uma calculadora para ajudá-la a fazer esse cálculo de forma rápida e precisa. ❤
+Em 2022, ouvi minha irmã, que está quase se formando em Odontologia, mencionar a importância de calcular a dosagem correta de anestésico local. Foi aí que decidi criar uma calculadora para ajudá-la a fazer esse cálculo de forma rápida e precisa. 
 
 ##
 <h3> 💻 Desenvolvimento </h3>
